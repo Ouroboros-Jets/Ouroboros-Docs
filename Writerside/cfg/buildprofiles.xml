@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables></variables>
+    <build-profile instance="adoc">
+        <variables>
+            <custom-css>custom.css</custom-css>
+            <primary-color>#230B3B</primary-color>
+            <color-preset>vivid</color-preset>
+            <noindex-content>true</noindex-content>
+            <custom-favicons>logo.png</custom-favicons>
+            <header-logo>logo2k.png</header-logo>
+
+        </variables>
+
+        <footer>
+            <link href="https://github.com/Ouroboros-Jets">Github</link>
+            <link href="https://discord.gg/GhkQ9wrrbp">Discord</link>
+            <link href="https://ouroborosjets.com">Official Website</link>
+        </footer>
+    </build-profile>
+
+</buildprofiles>

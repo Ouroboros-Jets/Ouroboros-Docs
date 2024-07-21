@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="adoc"
+                 name="E175 Documentation"
+                 start-page="ouroborosDocs.md">
+
+    <toc-element topic="ouroborosDocs.md"/>
+    <toc-element topic="QRH-AFM.md">
+        <toc-element topic="AFM.md"/>
+        <toc-element topic="QRH.md"/>
+    </toc-element>
+    <toc-element topic="Systems.md">
+        <toc-element topic="23-Communications.md"/>
+        <toc-element topic="24-Electrical-Power.md"/>
+        <toc-element topic="25-Equipment-Furnishings.md"/>
+        <toc-element topic="26-Fire-Protection.md"/>
+        <toc-element topic="27-Flight-Controls.md"/>
+        <toc-element topic="28-Fuel.md"/>
+        <toc-element topic="29-Hydraulic-Power.md"/>
+        <toc-element topic="30-Ice-and-Rain-Protection.md"/>
+        <toc-element topic="31-Indicating-Recording-Systems.md"/>
+        <toc-element topic="32-Landing-Gear.md"/>
+        <toc-element topic="33-Lights.md"/>
+        <toc-element topic="34-Navigation.md"/>
+        <toc-element topic="35-Oxygen.md"/>
+        <toc-element topic="36-Pneumatic.md"/>
+        <toc-element topic="38-Water-Waste.md"/>
+        <toc-element topic="44-Cabin-Systems.md"/>
+        <toc-element topic="45-Central-Maintenance-System.md"/>
+        <toc-element topic="46-Information-Systems.md"/>
+        <toc-element topic="49-Airborne-Auxillary-Power.md"/>
+        <toc-element topic="50-Cargo-and-Accessory-Compartments.md"/>
+        <toc-element topic="52-Doors.md"/>
+        <toc-element topic="53-Fuselage.md"/>
+        <toc-element topic="54-Nacelles-Pylons.md"/>
+        <toc-element topic="55-Stabilizers.md"/>
+        <toc-element topic="56-Windows.md"/>
+        <toc-element topic="57-Wings.md"/>
+        <toc-element topic="71-Powerplant.md"/>
+        <toc-element topic="72-Engine.md"/>
+        <toc-element topic="73-Engine-Fuel-and-Control.md"/>
+        <toc-element topic="74-Ignition.md"/>
+        <toc-element topic="75-Air.md"/>
+    </toc-element>
+    <toc-element topic="System-Repo.md"/>
+    <toc-element topic="Changes.md"/>
+</instance-profile>

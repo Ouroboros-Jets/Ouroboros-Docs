@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "UncutSans";
+    src: url("Uncut-Sans.woff2") format("woff2");
+}
+
+*{
+font-family: "UncutSans", Arial, sans-serif;
+}
+
+:root {
+  --rs-color-black:black;
+    --rs-color-white: #c0b6ca;
+}
+.toc-item--theme-light{
+color:black !important;
+}
+
+.toc-item--theme-dark{
+color:white !important;
+}
+
+
+.article__img {
+    border-radius: 30px !important;
+    border: none;
+}
+
+.toc-item--highlighted{
+background:transparent !important;
+}
+
+.footer__powered{
+    display:none;
+}
+
+.app__footer {
+    background-color: #230B3B !important;
+}
+
+::-moz-selection {
+  background: rgba(0,75,250,0.5) !important;
+}
+::selection {
+  background: rgba(0,75,250,0.5) !important;
+}
